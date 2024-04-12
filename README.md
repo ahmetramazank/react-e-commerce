@@ -59,7 +59,7 @@ To use this application, follow these steps:
 
 2. **Navigate to the project directory:**
    ```
-   cd e-commerce
+   cd react-app
    ```
    
 3. **Start the development server:**
