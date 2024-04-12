@@ -48,7 +48,23 @@ This project is a prototype of an e-commerce website built using React.js and Re
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install dependencies using `npm install`.
-3. Run the development server with `npm start`.
-4. Access the application in your browser at `http://localhost:3000`.
+## Usage
+
+To use this application, follow these steps:
+
+1. **Clone the repository to your local machine:**
+   ```
+   git clone https://github.com/ahmetramazank/react-e-commerce.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```
+   cd e-commerce
+   ```
+   
+3. **Start the development server:**
+   ```
+   npm run dev
+   ```
+
+4. **Open your browser and go to `http://localhost:3000` to view the application.**
